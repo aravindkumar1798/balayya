@@ -1,0 +1,3 @@
+the git commit --amend command is a convienient way to 
+modify the most recent commit. it lets you combine staged changes 
+with the previous commit instead of creating an entirely new commit
